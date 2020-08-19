@@ -1,0 +1,165 @@
+{
+	"run": [
+		{
+			"filePath": "/ExcerciseDemo/webapp/test/flpSandbox.html",
+			"previewMode": 1,
+			"dataMode": 1,
+			"workspace": "withoutWorkspace",
+			"urlParameters": [
+				{
+					"paramName": "",
+					"paramValue": "",
+					"paramActive": false
+				},
+				{
+					"paramName": "",
+					"paramValue": "",
+					"paramActive": false
+				}
+			],
+			"hashParameter": "excercise-display",
+			"ui5ActiveVersion": "snapshot",
+			"ui5VerSource": null,
+			"isDefaultVersion": 1,
+			"_metadata": {
+				"id": "9717743",
+				"runnerId": "webapprunner",
+				"displayName": "App in FLP Sandbox"
+			}
+		},
+		{
+			"filePath": "/ExcerciseDemo/webapp/test/flpSandboxMockServer.html",
+			"previewMode": 1,
+			"dataMode": 1,
+			"workspace": "withoutWorkspace",
+			"urlParameters": [
+				{
+					"paramName": "",
+					"paramValue": "",
+					"paramActive": false
+				},
+				{
+					"paramName": "",
+					"paramValue": "",
+					"paramActive": false
+				}
+			],
+			"hashParameter": "excercise-display",
+			"ui5ActiveVersion": "snapshot",
+			"ui5VerSource": null,
+			"isDefaultVersion": 1,
+			"_metadata": {
+				"id": "8492761",
+				"runnerId": "webapprunner",
+				"displayName": "App in FLP Sandbox (Mock Server)"
+			}
+		},
+		{
+			"filePath": "/ExcerciseDemo/webapp/test/unit/unitTests.qunit.html",
+			"previewMode": 1,
+			"dataMode": 1,
+			"workspace": "withoutWorkspace",
+			"ui5ActiveVersion": "snapshot",
+			"ui5VerSource": null,
+			"isDefaultVersion": 1,
+			"urlParameters": [
+				{
+					"paramName": "",
+					"paramValue": "",
+					"paramActive": false
+				},
+				{
+					"paramName": "",
+					"paramValue": "",
+					"paramActive": false
+				}
+			],
+			"_metadata": {
+				"id": "703059",
+				"runnerId": "webapprunner",
+				"displayName": "Unit Tests"
+			}
+		},
+		{
+			"filePath": "/ExcerciseDemo/webapp/test/integration/opaTests.qunit.html",
+			"previewMode": 1,
+			"dataMode": 1,
+			"workspace": "withoutWorkspace",
+			"ui5ActiveVersion": "snapshot",
+			"ui5VerSource": null,
+			"isDefaultVersion": 1,
+			"urlParameters": [
+				{
+					"paramName": "",
+					"paramValue": "",
+					"paramActive": false
+				},
+				{
+					"paramName": "",
+					"paramValue": "",
+					"paramActive": false
+				}
+			],
+			"hashParameter": "",
+			"_metadata": {
+				"id": "7934892",
+				"runnerId": "webapprunner",
+				"displayName": "OPA Tests"
+			}
+		},
+		{
+			"filePath": "/ExcerciseDemo/webapp/test/testsuite.qunit.html",
+			"previewMode": 1,
+			"dataMode": 1,
+			"workspace": "withoutWorkspace",
+			"ui5ActiveVersion": "snapshot",
+			"ui5VerSource": null,
+			"isDefaultVersion": 1,
+			"urlParameters": [
+				{
+					"paramName": "",
+					"paramValue": "",
+					"paramActive": false
+				},
+				{
+					"paramName": "",
+					"paramValue": "",
+					"paramActive": false
+				}
+			],
+			"hashParameter": "",
+			"_metadata": {
+				"id": "1234737",
+				"runnerId": "webapprunner",
+				"displayName": "Test Suite (Unit, OPA)"
+			}
+		},
+		{
+			"filePath": "/ExcerciseDemo/webapp/Component.js",
+			"previewMode": 1,
+			"dataMode": 1,
+			"workspace": "withoutWorkspace",
+			"ui5ActiveVersion": "snapshot",
+			"ui5VerSource": null,
+			"isDefaultVersion": 1,
+			"urlParameters": [
+				{
+					"paramName": "",
+					"paramValue": "",
+					"paramActive": false
+				},
+				{
+					"paramName": "",
+					"paramValue": "",
+					"paramActive": false
+				}
+			],
+			"hashParameter": "",
+			"_metadata": {
+				"id": "5482843",
+				"runnerId": "fiorirunner",
+				"displayName": "App as Fiori Component"
+			}
+		}
+	]
+}
